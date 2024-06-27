@@ -1,5 +1,7 @@
 # Open Sustainability Index
 
+_Open, accessible, transparent, actionable sustainability data._
+
 We believe in open data and open source.
 
 - See https://www.opensustainabilityindex.org/support-us for more information on how to contribute to Open Sustainability Index.
