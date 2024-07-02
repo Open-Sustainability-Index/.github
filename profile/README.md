@@ -4,8 +4,15 @@ _Open, accessible, transparent, actionable sustainability data._
 
 We believe in open data and open source.
 
-- See https://www.opensustainabilityindex.org/support-us for more information on how to contribute to Open Sustainability Index.
+**Do you want to help us build Open Sustainability Index?**
+
+- Read our [Introduction for new contributors](https://github.com/orgs/Open-Sustainability-Index/discussions/12) in the discussions.
   - See development todo list here: https://github.com/orgs/Open-Sustainability-Index/projects/1/views/3
+  - See https://www.opensustainabilityindex.org/support-us for more information on how to contribute to Open Sustainability Index.
 - See https://www.opensustainabilityindex.org/api on how to access the data through our API.
 
-Send an email to hello@opensustainabilityindex.org to get access to our Slack channel, or if you have other questions.
+## Communication
+
+We use [GitHub Discussions](https://github.com/orgs/Open-Sustainability-Index/discussions) for communications around development and design of Open Sustainability Index.
+
+Send an email to hello@opensustainabilityindex.org if you have other questions.
