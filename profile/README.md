@@ -22,7 +22,6 @@ We believe in open data and open source.
 	4. Create pull request (PR) on GitHub.
 	5. Tech Lead will approve pull request and merge into `main` branch.
 - It’s ok to merge `main` branch into your feature branch to solve conflicts.
-- Tech Lead will push to `production` branch to build live version.
 - Versioning (in `package.json`) done by Tech Lead: `v1.2.3` = `v[Major].[Minor].[Patch]`. Minor: when a new screen/page is added, Patch for other changes.
 
 ## Communication
