@@ -8,7 +8,7 @@ We believe in open data and open source.
 
 - Read our [Introduction for new contributors](https://github.com/orgs/Open-Sustainability-Index/discussions/12) in the discussions.
   - Read [how to set up your development environment](https://github.com/Open-Sustainability-Index/open-sustainability-index-frontend?tab=readme-ov-file#how-to-set-up)
-  - See development todo list here: https://github.com/orgs/Open-Sustainability-Index/projects/1/views/3
+  - We have a development todo list here: https://github.com/orgs/Open-Sustainability-Index/projects/1/views/3 but feel free to come up with your own ideas too!
   - See https://www.opensustainabilityindex.org/support-us for more information on how to contribute to Open Sustainability Index.
 - See https://www.opensustainabilityindex.org/api on how to access the data through our API.
 
