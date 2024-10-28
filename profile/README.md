@@ -43,7 +43,7 @@ It means the company does not yet exist in the database. To add it manually you 
 3. Click "Insert row"
 4. Fill in the 2 necessary rows (name, slug). Name should be the name of the company. Slug is the unique identifier for this company. It could be anything, but normally it's a computer friendly version of the name. Replace spaces in the name with `-` and replace language specific characters such as `åäö`. Make it lower-case. A good slug for `Diös Fastigheter` would for example be `dios-fastigheter`
 5. Click "Save"
-6. The company is now saved and you can add the column `company_slug` to your csv with the slug of the company you just added and redo the emission steps [above](https://github.com/Open-Sustainability-Index/.github/blob/main/profile/README.md#submit-new-emission-data). 
+6. The company is now saved and you can add the column `company_slug` to your csv with the slug of the company you just added and redo the emission steps [above](https://github.com/Open-Sustainability-Index#submit-new-emission-data). 
 
 ## Communication
 
